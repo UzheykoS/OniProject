@@ -37,7 +37,7 @@
     "postcss-flexbugs-fixes": "^4.1.0",
     "react": "^16.8.2",
     "react-async-script-loader": "^0.3.0",
-    "react-dev-utils": "^7.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.8.2",
     "react-router": "5.0.0",
     "react-router-config": "5.0.0",
